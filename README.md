@@ -2,7 +2,8 @@
 
 🚀 Flutter developer & freelancer from Egypt  
 🎓 Graduated from **BUC (Badr University in Cairo)**  
-💙 Focused on building clean, simple, and user-friendly mobile apps with Flutter.
+🌟 Interested in building clean, simple, and user-friendly mobile apps using Flutter.
+
   
 
 ---
