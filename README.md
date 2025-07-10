@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hey! I'm Manar
 
-<!--
-**ManarSawah/ManarSawah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter developer & freelancer from Egypt  
+🎓 Graduated from **BUC (Badr University in Cairo)**  
+💙 Focused on building clean, simple, and user-friendly mobile apps with Flutter.
+  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- 💻 Flutter & Dart  
+- 🔄 State Management: Provider, BLoC  
+- ☁️ Firebase  
+- 🌐 REST APIs  
+- 🎨 UI/UX Implementation  
+- 🧰 Git & GitHub
+
+---
+
+## 🌟 Featured Project
+
+### [Aura House App 🛍️](https://github.com/ManarSawah/aura-house-app)  
+A modern fashion e-commerce app built with Flutter.  
+Features: product listing, cart, checkout, and favorites.  
+Inspired by Fashion UI Kit with a responsive and smooth design.
+
+---
+
+## 📊 GitHub Stats
+
+![Manar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManarSawah&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManarSawah&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: manarsawa77@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/manar-alsawah-b94194265](https://www.linkedin.com/in/manar-alsawah-b94194265)
+
